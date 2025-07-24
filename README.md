@@ -38,7 +38,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/ARAtik169/github-readme-stats"><img alt="Atik Hasan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khrlmstfa&show_icons=true&count_private=false&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/ARAtik169/github-readme-stats"><img alt="Atik Hasan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=atikhasan169&show_icons=true&count_private=false&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtikHasan169&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
