@@ -14,13 +14,13 @@
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="[https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true]" alt="AtikHasan169"  /></p>
+<p align="center"><img src="[https://github-readme-stats.vercel.app/api?username=AtikHasan169&count_private=true&include_all_commits=true]" alt="AtikHasan169"  /></p>
 
 <p align="left"> 
 
 
    
-   <a href="https://www.youtube.com/@Samir_OE"><img width="83" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
+   <a href="https://www.youtube.com/@ARAtik169"><img width="83" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
