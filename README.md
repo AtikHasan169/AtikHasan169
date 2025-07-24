@@ -14,7 +14,7 @@
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AtikHasan169&theme=algolia" alt="AtikHasan169"  /></p>
+<p align="center"><img src="[https://github-readme-streak-stats.herokuapp.com/?user=AtikHasan169&theme=algolia](https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true)" alt="AtikHasan169"  /></p>
 
 <p align="left"> 
 
